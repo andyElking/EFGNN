@@ -1,0 +1,7 @@
+.idea/*
+
+datasets
+
+**/__pycache__
+*.py[cod]
+*.pkl
