@@ -1,9 +1,7 @@
 # GDL_Submission
 Code for the Geometric Deep Learning mini-project
 
-For a quick demo run:
-
-best_model_for('Squirrel') or best_model_for('Chameleon') from best_model.py
+For a quick demo run   best_model_for('Squirrel') or best_model_for('Chameleon') from best_model.py
 
 
 
